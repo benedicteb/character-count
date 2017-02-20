@@ -11,7 +11,7 @@ const App = ({ text, onTextChange }) => (
 
     <Row className="display">
       <Column small={12} large={12}>
-        <h1>Histogram</h1>
+        <h1>Character count</h1>
 
         <p>Count the occurence of characters in your text.</p>
       </Column>
