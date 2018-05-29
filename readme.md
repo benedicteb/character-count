@@ -4,7 +4,7 @@ This app lets you type text and gives you information about it like how many
 characters, how many letters. A bar graph describing character usage as well as
 a bar graph of character usage per sentence.
 
-You can try it out [here](http://brkn.io/character-count/).
+You can try it out [here](https://www.brkn.io/character-count/).
 
 ## Install and build
 
